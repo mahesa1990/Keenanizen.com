@@ -1,1 +1,21 @@
-
+<!doctype>
+  <html>
+  <title>mahesa darma wiguna</title>
+  <button><h1>mahesa darma wiguna</h1>
+    
+  </button>
+  <form>
+    <label for="username">username</label><br>
+    <input type="username" id="name" placeholder="username">
+    <br>
+    <label for="pasword">pasword</label><br>
+    <input type="pasword" id="number" placeholder="pasword">
+    <br>
+    <button type="submit">login</button>
+    <br>
+    <label>
+  <input type="checkbox" name="remember"> Ingat saya
+</label>
+    </form>
+  
+  <html>
